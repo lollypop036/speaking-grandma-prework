@@ -6,7 +6,7 @@ if phrase != phrase.upcase
   
 return "HUH?! SPEAK UP, SONNY!"
 
-elsif  phrase == "I LOVE YOU GRANDMA!" && phrase.upcase
+elsif  phrase == "I LOVE YOU GRANDMA!" 
 return "I LOVE YOU TOO PUMPKIN!"
 
 
