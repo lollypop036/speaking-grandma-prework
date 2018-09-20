@@ -7,6 +7,9 @@ if phrase != phrase.uppercase
   return "HUH?! SPEAK UP, SONNY!"
   
 elsif  phrase == phrase.uppercase
+return "NO, NOT SINCE 1938!"
+
+elsif return 
 
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
